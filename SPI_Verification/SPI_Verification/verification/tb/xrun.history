@@ -1,0 +1,6 @@
+s1(03Dec2025:15:00:30):  xrun -f run.f 
+s2(03Dec2025:15:03:06):  xrun -f run.f 
+s3(03Dec2025:15:05:06):  xrun -f run.f 
+s4(03Dec2025:15:17:31):  xrun -f run.f 
+s5(03Dec2025:16:48:29):  xrun -f run.f 
+s6(03Dec2025:16:50:15):  xrun -f run.f 
